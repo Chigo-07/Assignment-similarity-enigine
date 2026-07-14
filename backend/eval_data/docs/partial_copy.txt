@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. Researchers have explored many ways to apply these techniques in real-world scenarios. The field continues to evolve rapidly with new architectures emerging every year.

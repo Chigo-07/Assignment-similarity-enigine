@@ -1,0 +1,5 @@
+category,pairs,positives,detection_rate
+heavy_paraphrase,1,1,0.0
+partial,1,1,0.0
+unrelated,1,0,reject=100.0
+verbatim,1,1,100.0

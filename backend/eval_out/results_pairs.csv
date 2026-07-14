@@ -1,0 +1,5 @@
+primary,target,category,label,tfidf,trigram,sbert,final,risk
+original.txt,exact_copy.txt,verbatim,1,100.0,100.0,0.0,80.0,High
+original.txt,paraphrase.txt,heavy_paraphrase,1,6.6,0.0,0.0,3.3,Low
+original.txt,partial_copy.txt,partial,1,24.5,37.0,0.0,23.4,Low
+original.txt,different.txt,unrelated,0,0.7,0.0,0.0,0.3,Low

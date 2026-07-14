@@ -1,0 +1,1 @@
+Machine learning is a branch of AI that allows systems to automatically improve through experience and data analysis. These systems detect regularities in large amounts of information and use them to forecast outcomes. Typical uses involve recognising images, understanding human language, and suggesting content to users.

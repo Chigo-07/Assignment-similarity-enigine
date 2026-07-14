@@ -1,0 +1,5 @@
+primary,target,category,label
+original.txt,exact_copy.txt,verbatim,1
+original.txt,paraphrase.txt,heavy_paraphrase,1
+original.txt,partial_copy.txt,partial,1
+original.txt,different.txt,unrelated,0

@@ -47,7 +47,7 @@ def on_startup():
 
 
 # ── HEALTH ───────────────────────────────────────────────
-@app.get("/")
+@app.get("/api/health")
 def health_check():
     return {"status": "running", "app": "Assignment Similarity Engine"}
 

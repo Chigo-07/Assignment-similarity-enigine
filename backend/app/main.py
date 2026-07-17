@@ -916,7 +916,8 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 import os
 
-FRONTEND_DIST = os.path.join(os.path.dirname(__file__), "frontend_dist")
+FRONTEND_DIST = os.path.join(os.path.dirname(__file__), "..", "frontend_dist")
+
 
 if os.path.isdir(FRONTEND_DIST):
     app.mount("/assets", StaticFiles(directory=os.path.join(FRONTEND_DIST, "assets")), name="assets")
